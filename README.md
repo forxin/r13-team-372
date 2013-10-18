@@ -24,3 +24,4 @@ Useful Links
  * [Rails Rumble Community Wiki](https://github.com/railsrumble/community/wiki/_pages)
    * [Linode StackScripts](https://github.com/railsrumble/community/wiki/Linode-StackScripts)
    * [SSH Configuration](https://github.com/railsrumble/community/wiki/SSH-Configuration)
+   * [Capistrano Deployment Recipe](https://gist.github.com/tsmango/3849380)
