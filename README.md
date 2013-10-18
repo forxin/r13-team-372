@@ -8,6 +8,16 @@ Team Logo
 
 <img src="forxin.png" alt="Team logo" width="222" />
 
+Passwords
+---------
+
+### Linode
+
+| What  | Password    |
+| ----- | ----------- |
+| MySQL | RailsRumble |
+| SSH   | RailsRumble |
+
 Useful Links
 ------------
 
